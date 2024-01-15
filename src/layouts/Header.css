@@ -1,0 +1,27 @@
+header {
+  padding: 2rem;
+  background: rgba(4, 4, 92, 0.238);
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+header nav a {
+  color: rgb(4, 4, 92);
+  text-decoration: none;
+  border-radius: 0.5rem;
+  border: 1px solid white;
+background-color: rgba(255, 0, 0, 0.17);
+  padding: 0.2rem 0.5rem;
+  min-width: 5rem;
+}
+
+input {
+  margin-bottom: 1rem;
+  border-radius: 10rem;
+  padding: 0.1rem 1rem;
+}

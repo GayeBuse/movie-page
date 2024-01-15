@@ -1,0 +1,36 @@
+footer {
+  background: tomato;
+  padding: 2rem;
+}
+
+.side-container {
+  width: 40%;
+  background: rgba(128, 128, 128, 0.232);
+  color: rgb(4, 4, 92);
+  min-height: 50vh;
+  padding: 1rem;
+}
+
+.main-container {
+  width: 60%;
+  min-height: 50vh;
+  background-color: brown;
+}
+
+.content-section {
+  display: flex;
+  min-height: 50vh;
+}
+
+.movie-card {
+  width: 90%;
+  margin: 1rem auto;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  border: 1px solid white;
+  background: rgba(255, 255, 255, 0.211);
+}
+.side-container button {
+  background-color: rgba(255, 0, 0, 0.17);
+  border: solid 1px white;
+}
